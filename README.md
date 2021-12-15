@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joanamelo13&theme=synthwave&show_icons=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joanamelo13&layout=compact&langs_count=7&theme=synthwave)
 <!--
 **joanamelo13/joanamelo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
