@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+My name is Joana, I am a Full Stack Developer, Academic of Computer Science and Computer Networking Technician.  This profile presents some projects and works that I build on a daily basis with different technologies. The part I like most about development is the back-end, but I'm studying to improve both parts.
+
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joanamelo13&theme=synthwave&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joanamelo13&layout=compact&langs_count=7&theme=synthwave)-->
 <div align="center">
