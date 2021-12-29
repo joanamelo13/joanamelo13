@@ -4,6 +4,7 @@ My name is Joana, I am a Full Stack Developer, Academic of Computer Science and 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joanamelo13&theme=synthwave&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joanamelo13&layout=compact&langs_count=7&theme=synthwave)-->
+<br>
 <div align="center">
   <a href="https://github.com/joanamelo13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joanamelo13&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
