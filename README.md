@@ -11,9 +11,8 @@ My name is Joana, I am a Full Stack Developer, Academic of Computer Science and 
 </div>
 <div align="center">
   <a href="https://github.com/joanamelo13">
- 
+  <img height="180em" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"/>
 </div>
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <!--
 **joanamelo13/joanamelo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
