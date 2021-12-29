@@ -17,6 +17,8 @@ My name is Joana, I am a Full Stack Developer, Academic of Computer Science and 
   <img align="center" alt="Joana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+  
+ ![Snake animation](https://github.com/joanamelo13/joanamelo13/blob/output/github-contribution-grid-snake.svg)
 <!--<div align="center">
   <a href="https://github.com/joanamelo13">
   <img height="180em" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"/>
