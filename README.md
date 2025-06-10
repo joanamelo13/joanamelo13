@@ -33,4 +33,4 @@ My name is Joana, I am a Full Stack Developer, Academic of Computer Science and 
   
 </div>
   
- ![Snake animation](https://github.com/joanamelo13/joanamelo13/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/joanamelo13/joanamelo13/blob/output/github-contribution-grid-snake.svg)-->
